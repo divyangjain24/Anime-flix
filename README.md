@@ -1,4 +1,4 @@
-#Anime straming website name "Anime Flixe"
+Anime straming website name "Anime Flixe"
 Welcome to the Anime Streaming Website repository! This project aims to provide a platform for anime enthusiasts to stream their favorite anime shows and movies seamlessly.
 
 Table of Contents
